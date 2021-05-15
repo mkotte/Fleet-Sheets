@@ -1,5 +1,27 @@
-#FleetSheets
-## Progressive Web Application (Mobile/Tablet First)WWWWW
+# Fleet-Sheets
+## Progressive Web Application (Mobile/Tablet First)
+
+### Extra Information/Resources
+* [Introduction](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Introduction)
+
+### User Story
+    AS AN ADMINISTRATOR
+    I WANT to be able to  
+    - create Custom Forms, that employees can easily fill out
+    - receive job information and create jobs
+    - assign jobs to employees
+    - monitor employee Job progress
+    SO THAT I can efficently operate and manage their small / medium sized business's fleet employees.
+
+
+    AS AN Employee
+    I WANT to be able to 
+    - view assigned jobs for the day
+    - access jobsite information (i.e. address, contact information, notes, etc)
+    - complete related jobsite forms 
+    - mark jobs completed
+    - have the ability to continue to work while remote and offline
+    SO THAT I can continue to complete my job expectations in an easy and organized fashion.
 
 ### Technology To Use (MERN Stack)
 * MongoDb
@@ -8,10 +30,10 @@
 * Node.Js
 * Tailwind CSS (or something new)
 
-### Desired Functionalities 
+### Desired PWA Functionalities 
 * Available offline
 * Downloadable to android + ios homescreen's
-* High/Perfect Chrome Lighthouse Score
+* Device camera functionality / implementation
 * Fast load speeds
 * Mobile app look/feel
 * Push Notifications (mobile + desktop)
