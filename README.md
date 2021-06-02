@@ -14,7 +14,7 @@
     SO THAT I can efficently operate and manage my small / medium sized business's fleet employees.
 
 
-    AS AN Employee
+    AS AN EMPLOYEE
     I WANT to be able to 
     - view assigned jobs for the day
     - access jobsite information (i.e. address, contact information, notes, etc)
