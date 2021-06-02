@@ -18,7 +18,7 @@
     I WANT to be able to 
     - view assigned jobs for the day
     - access jobsite information (i.e. address, contact information, notes, etc)
-    - complete related jobsite forms 
+    - complete related jobsite forms/invoices 
     - mark jobs completed
     - have the ability to continue to work while remote and offline
     SO THAT I can continue to complete my job expectations in an easy and organized fashion.
