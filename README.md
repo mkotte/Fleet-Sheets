@@ -2,7 +2,7 @@
 ## Progressive Web Application (Mobile/Tablet First)
 
 ### Extra Information/Resources
-* [Introduction](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Introduction)
+* [Introduction to PWA's](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Introduction)
 
 ### User Story
     AS AN ADMINISTRATOR
