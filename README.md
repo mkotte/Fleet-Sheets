@@ -7,7 +7,7 @@
 ### User Story
     AS AN ADMINISTRATOR
     I WANT to be able to  
-    - create Custom Forms, that employees can easily fill out
+    - create invoices, that employees can easily fill out
     - receive job information and create jobs
     - assign jobs to employees
     - monitor employee Job progress
