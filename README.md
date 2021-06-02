@@ -11,7 +11,7 @@
     - receive job information and create jobs
     - assign jobs to employees
     - monitor employee Job progress
-    SO THAT I can efficently operate and manage their small / medium sized business's fleet employees.
+    SO THAT I can efficently operate and manage my small / medium sized business's fleet employees.
 
 
     AS AN Employee
